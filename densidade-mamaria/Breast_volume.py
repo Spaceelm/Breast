@@ -160,4 +160,5 @@ pyplot.show()
 # Volume calculation
 breastThickness = RefDs.BodyPartThickness * 0.1  # cm
 breastVolume = (math.pi / 4) * (dimA * dimB * breastThickness)
-print("Breast volume: ", breastVolume)
+print("Breast volume 2: ", breastVolume)
+
